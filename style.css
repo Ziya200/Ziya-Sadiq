@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:black;
+    color:white;
+    
+}
+
+.header {
+    font-size: 100px;
+    text-align: center;
+}
+
+.subheader {
+    display: flex;
+    align-items:center;
+    gap: 50px;
+}
+
+.content {
+    position: relative;
+    left: 10%;
+}
+
+.pfp {
+    width: 250px;
+    height:300px;
+}
